@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-CVANA is a quick, reliable intregated solution for automatic notification of availablity of slots and other details like date, name of facility, pin number, address etc. for nearest covid 19 vaccination centre. Right Now CVANA notified user's phone by direct message and whatsapp message. 
+CVANA is a quick, reliable intregated solution for automatic notification of availablity of slots and other details like date, name of facility, pin number, address etc. for nearest covid 19 vaccination centre. Right Now CVANA notified user's phone by sms and whatsapp message. 
 
 ## Features
 
