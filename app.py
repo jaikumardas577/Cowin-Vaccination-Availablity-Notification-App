@@ -12,9 +12,7 @@ from tabulate import tabulate
 from terminaltables import AsciiTable
 from colorama import Fore, Back, Style
 import requests
-from chalice import Chalice, Rate
 
-app = Chalice(app_name="VaccinationAvailablityNotificationApp")
 
 cowin = CoWinAPI()
 
